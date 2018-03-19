@@ -14,3 +14,5 @@ In case you face cors problems, run the following commands
 2- add-cors-to-couchdb http://localhost:5984
 
 You can check the 'Chat System Architecture Document.docx' for simple system architecure.
+
+For any questions, please send me to shaban_gomaa@hotmail.com
